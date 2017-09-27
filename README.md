@@ -1,2 +1,6 @@
 # applied_algorithms
-Fundamental algorithms for computer science 
+Fundamental algorithms for Computer science  
+* Insertion Sort
+* Bublesort 
+* Merge Sort 
+* Quick Sort 
